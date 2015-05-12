@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyView</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <!--person的string值-->
+    <string name="pseron_name">黄生</string>
+    <string name="sex_man">man</string>
+</resources>
